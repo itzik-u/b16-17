@@ -1,3 +1,11 @@
+/*
+this is the style for the tic-tac-toe game
+
+
+
+
+*/
+
 body {
     display: flex;
     flex-direction: column;
